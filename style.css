@@ -1,0 +1,177 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Copyright Lewis Monteith */
+
+body {
+	background-image: url(images/bg.fw.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-attachment: scroll;
+}
+
+#wrapper {
+	width: 1024px;
+	height: auto;
+	margin: 0px auto;
+}
+
+#wrapper1 {
+	width: 1024px;
+	height: 285px;
+}
+
+#wrapper2 {
+	width: 1024px;
+	height: auto;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+.container {
+	width: 301px;
+	height: 250px;
+	background-image: url(images/container.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.containerEnd {
+	width: 301px;
+	height: 250px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#logo {
+	width: 444px;
+	height: 152px;
+	margin: 0px auto;
+	background-image: url(images/logo.fw.png);
+	margin-top: 30px;
+}
+
+#footer {
+	width: 100%;
+	height: 28px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #323232;
+	font-size: 12px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom-color: #323232;
+	margin-top: 10px;
+	background-image: url(images/footer.fw.png);
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+}
+
+#nav {
+	width: 1024px;
+	height: 60px;
+	background-image: url(images/navbg.fw.png);
+	background-position: center top;
+	margin-top: 40px;
+	text-align: center;
+}
+
+#navContainer {
+	width: 1024px;
+	height: 60px;
+	margin: 0px auto;
+}
+
+#navItems {
+	width: auto;
+	height: 60px;
+	float: left;
+}
+
+#navRight {
+	width: 318px;
+	height: 30px;
+	float: right;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: right;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333;
+	font-size: 14px;
+}
+#boxesContainer {
+	height: 300px;
+	width: 1024px;
+}
+.boxes {
+	float: left;
+	height: 260px;
+	width: 301px;
+	background-image: url(images/boxes.png);
+	padding: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+}
+.boxesEnd {
+	float: left;
+	height: 260px;
+	width: 301px;
+	padding: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+}
+
+#javaContainer {
+	width: 1024px;
+	height: 400px;
+	margin-top: 40px;
+}
+#pageText {
+	padding: 20px;
+	height: auto;
+	width: 985px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+}
+
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #927F64;
+}
+
+.recessed {
+	margin-left: 40px;
+}
+.imgRight {
+	float: right;
+	height: 425px;
+	width: 400px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+#contactInfo {
+	float: left;
+	height: 50px;
+	width: 350px;
+	margin-left: 22px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+img {
+	border: 0px;
+}
